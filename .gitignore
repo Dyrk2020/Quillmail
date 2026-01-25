@@ -26,3 +26,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .ace-tool/
+
+# macOS
+.DS_Store
